@@ -1,1 +1,1 @@
-# MACS30200proj
+# MACS 30200 (Spring 2018)
